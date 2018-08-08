@@ -17,7 +17,7 @@ This is the default page. All routes that aren't declared are rerouted back here
 The user only interacts with this page via the link to the survey page or my other repos. It is static.
 
 ## Survey Page
-![Project Options](https://github.com/bshin19/friender/blob/master/assets/images/survey.PNG)
+![Project Options](https://github.com/bshin19/friender/blob/master/assets/images/survay.PNG)
 The user fills out a survey on this page. No validation is performed to verify whether valid inputs are set or not for the name and image. \
 This was partially done for speeding up testing purposes.
 
